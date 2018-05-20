@@ -1,0 +1,19 @@
+{
+  "name": "compiler",
+  "version": "1.0.0",
+  "description": "light weight compiler",
+  "main": "index.js",
+  "scripts": {
+    "test": "test test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prakashsellathurai/compiler.git"
+  },
+  "author": "prakash sellathurai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prakashsellathurai/compiler/issues"
+  },
+  "homepage": "https://github.com/prakashsellathurai/compiler#readme"
+}
